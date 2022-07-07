@@ -1,10 +1,12 @@
 <h1 align="center"> Hi, my name is Dandhi</h1>
 
 <h3>Me Around the web</h3
-<p align="
-  <a href="https://www.linkedin.com/in/damarrama/">Linkedin</a> 
-  <a href="https://twitter.com/dandheedge">Twitter</a> 
+<p align="center"> 
+<a href="https://www.linkedin.com/in/damarrama/">Linkedin</a> 
+<a href="https://twitter.com/dandheedge">Twitter</a> 
 </p>
+
+
 
 -----------------------------------------------------------
 
